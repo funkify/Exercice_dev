@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<CallAccountingList subscriber="all">
+	<CallAccounting subscriber="121">
+		<DirNumber>121</DirNumber>
+		<initialDest>120</initialDest>
+		<CorrNumber>120</CorrNumber>
+		<DateOfBegin>2017-02-23T16:40:06</DateOfBegin>
+		<DateOfEnd>2017-02-23T16:40:25</DateOfEnd>
+	</CallAccounting>
+	<CallAccounting subscriber="122">
+		<DirNumber>122</DirNumber>
+		<initialDest>121</initialDest>
+		<CorrNumber>121</CorrNumber>
+		<DateOfBegin>2017-02-23T16:39:52</DateOfBegin>
+		<DateOfEnd>2017-02-23T16:40:23</DateOfEnd>
+	</CallAccounting>
+	<CallAccounting subscriber="157">
+		<DirNumber>157</DirNumber>
+		<initialDest>120</initialDest>
+		<CorrNumber>120</CorrNumber>
+		<DateOfBegin>2017-02-23T16:39:54</DateOfBegin>
+		<DateOfEnd>2017-02-23T16:40:20</DateOfEnd>
+	</CallAccounting>
+</CallAccountingList>

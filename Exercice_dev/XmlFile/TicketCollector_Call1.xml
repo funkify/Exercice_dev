@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<CallAccountingList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="TicketCollector.xsd"><CallAccounting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CAPTicket_V001.001.xsd">
+		<OmniPCXOffice>
+			<SoftwareVersion>3EH30533DAAA RCEBE102/040.001</SoftwareVersion>
+			<CPUIPAddress>172.17.12.100</CPUIPAddress>
+		</OmniPCXOffice>
+		<Checksum>268778112</Checksum>
+		<TicketType>Call</TicketType>
+		<ChargedUserType>A</ChargedUserType>
+		<ChargedUserID>122</ChargedUserID>
+		<SubscriberName>Digital 4019</SubscriberName>
+		<CommunicationType>Outgoing</CommunicationType>
+		<TrunkType>N</TrunkType>
+		<TrunkID>003</TrunkID>
+		<Date>2017-02-28</Date>
+		<Time>14:43:00</Time>
+		<CallDuration>00:00:20</CallDuration>
+		<TaxesAmount>0</TaxesAmount>
+		<Service>ST</Service>
+		<DialledNumber>0499514071</DialledNumber>
+		<DiallingMode>M</DiallingMode>
+		<RingingDuration>00:00:00</RingingDuration>
+		<Cost>0.00</Cost>
+		<Entity>1</Entity>
+		<Currency>EUR</Currency>
+	</CallAccounting>
+</CallAccountingList>
